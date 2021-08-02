@@ -11,6 +11,7 @@ The main purpose of this project is to create a map that tracks not only the ear
 - Add a third map style to allow the user to select from three different maps.
 
 ## Interactive Map Views
+<p align="center">
 
 Streets View
 
@@ -28,4 +29,4 @@ Dark View
 
 ![](Images/dark_view.png)
 
-
+</p>
