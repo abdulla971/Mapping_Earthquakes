@@ -16,5 +16,16 @@ Streets View
 
 ![](Images/streets_view)
 
+Satellite View
+
+![](Images/satellite_view)
+
+Light View
+
+![](Images/light_view)
+
+Dark View
+
+![](Images/dark_view)
 
 
