@@ -14,9 +14,9 @@ The main purpose of this project is to create a map that tracks not only the ear
 <p align="center">
 
 Streets View
-</p>
-![](Images/streets_view.png)
 
+![](Images/streets_view.png)
+</p>
 Satellite View
 
 ![](Images/satellite_view.png)
