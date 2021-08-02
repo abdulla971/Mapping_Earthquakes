@@ -10,6 +10,9 @@ The main purpose of this project is to create a map that tracks not only the ear
 - Add the tectonic plate data as an overlay with the earthquake data.
 - Add a third map style to allow the user to select from three different maps.
 
+### Link to Interactive Maps webpage
+The deployed webpage is accessible at https://abdulla971.github.io/Mapping_Earthquakes/
+
 ## Interactive Map Views
 
 Streets View
