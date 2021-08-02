@@ -14,18 +14,18 @@ The main purpose of this project is to create a map that tracks not only the ear
 
 Streets View
 
-![](Images/streets_view)
+![](Images/streets_view.png)
 
 Satellite View
 
-![](Images/satellite_view)
+![](Images/satellite_view.png)
 
 Light View
 
-![](Images/light_view)
+![](Images/light_view.png)
 
 Dark View
 
-![](Images/dark_view)
+![](Images/dark_view.png)
 
 
